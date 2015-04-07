@@ -38,6 +38,8 @@ Template.TechniciansEditEditForm.rendered = function() {
 		});
 	});
 
+	$('#tagsinput').tagsInput({'removeWithBackspace' : true,'defaultText':'Tags',delimiter: [',']});
+
 	$("input[autofocus]").focus();
 };
 

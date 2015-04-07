@@ -16,3 +16,6 @@ reactive-dict
 mizzao:bootboxjs
 mrt:moment
 rajit:bootstrap3-datepicker
+yogiben:autoform-tags
+ajduke:bootstrap-tagsinput
+mrt:bootstrap3-typeahead
